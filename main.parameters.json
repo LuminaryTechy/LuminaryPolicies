@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environment": {
+      "value": "prod"
+    },
+    "location": {
+      "value": "eastus"
+    },
+    "tenantId": {
+      "value": "4fa847ea-e2f9-4307-a20f-b482086c2f9d"
+    },
+    "appClientId": {
+      "value": "22a72f76-eb75-41d3-9c2d-b8f710cc3880"
+    },
+    "openAiLocation": {
+      "value": "eastus"
+    },
+    "itAdminGroupObjectId": {
+      "value": "1cf6848e-f8de-49fd-ad5d-5e983bc085c0"
+    },
+    "hrGroupObjectId": {
+      "value": "9cf31994-5389-4677-be7e-f586e76cc01b"
+    },
+    "complianceGroupObjectId": {
+      "value": "1e2ef8c4-0900-46ee-98a1-ab375dcd94d1"
+    },
+    "clinicalLeadsGroupObjectId": {
+      "value": "6337b13e-e6a1-410c-98f1-9798e5fe1ed8"
+    }
+  }
+}

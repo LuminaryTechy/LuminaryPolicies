@@ -1,0 +1,7 @@
+Application (client) ID:
+22a72f76-eb75-41d3-9c2d-b8f710cc3880
+
+
+
+Directory (tenant) ID:
+4fa847ea-e2f9-4307-a20f-b482086c2f9d
