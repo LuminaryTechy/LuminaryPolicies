@@ -6,7 +6,7 @@
       "value": "prod"
     },
     "location": {
-      "value": "eastus"
+      "value": "centralus"
     },
     "tenantId": {
       "value": "4fa847ea-e2f9-4307-a20f-b482086c2f9d"
@@ -15,7 +15,7 @@
       "value": "22a72f76-eb75-41d3-9c2d-b8f710cc3880"
     },
     "openAiLocation": {
-      "value": "eastus"
+      "value": "eastus2"
     },
     "itAdminGroupObjectId": {
       "value": "1cf6848e-f8de-49fd-ad5d-5e983bc085c0"
