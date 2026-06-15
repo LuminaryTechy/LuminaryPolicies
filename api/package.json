@@ -10,7 +10,7 @@
     "lint": "eslint src/**/*.ts"
   },
   "dependencies": {
-    "@azure/ai-search": "^12.1.0",
+    "@azure/search-documents": "^12.1.0",
     "@azure/identity": "^4.4.0",
     "@azure/openai": "^2.0.0",
     "@azure/storage-blob": "^12.25.0",
